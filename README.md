@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-   <img src="public/image/logo.jpg" alt="SnakeGame"/>
+   <img src="public/image/logo_2.jpg" alt="SnakeGame"/>
 </p>
 
 
